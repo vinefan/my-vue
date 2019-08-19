@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f7f3159-ea0b-4de4-9ff7-86478e3e2f6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-vue/src/common/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-vue/src/common/华文楷体.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-vue/src/components/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/src/components/Banner.vue" afterDir="false" />
@@ -255,12 +257,12 @@
       <workItem from="1565759963751" duration="180000" />
       <workItem from="1565870762300" duration="6290000" />
       <workItem from="1565957757054" duration="3119000" />
-      <workItem from="1566110198887" duration="14954000" />
+      <workItem from="1566110198887" duration="15259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31862000" />
+    <option name="totallyTimeSpent" value="32167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
