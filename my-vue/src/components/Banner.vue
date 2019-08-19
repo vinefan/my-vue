@@ -2,7 +2,7 @@
 <template >
   <div class="container-wrapper">
     <img src="../assets/logo.png"  />
-   
+
         <div class="container">
 
           <div class="product-title">
@@ -18,7 +18,7 @@
           </div>
 
         </div>
-     
+
   </div>
 
 </template>
@@ -32,6 +32,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+  @import "../common/font.css";
 img{
   width: 400px;
   height: 400px;
@@ -105,8 +106,8 @@ a {
 }
 
 .product-description {
-  font-family: "华文楷体";
-  font-weight: 800;
+  font-family: 华文行楷;
+  font-weight: 600;
   color: #ffffff;
 }
 
