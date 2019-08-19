@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f7f3159-ea0b-4de4-9ff7-86478e3e2f6d" name="Default Changelist" comment="" />
+    <list default="true" id="0f7f3159-ea0b-4de4-9ff7-86478e3e2f6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/babel-loader/25b4be045372f462ded244b82bb5e15a.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/babel-loader/25b4be045372f462ded244b82bb5e15a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/babel-loader/3b0bf0d07000779aaec50ee2d138d718.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/babel-loader/3b0bf0d07000779aaec50ee2d138d718.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/04e290aab9ebc5ab0ba59602494a0e96.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/04e290aab9ebc5ab0ba59602494a0e96.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/0e129acdf79cea41e52164bdea6e9008.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/0e129acdf79cea41e52164bdea6e9008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/343afed5b355d8140af5f45da14d7e7e.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/343afed5b355d8140af5f45da14d7e7e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/3beceec9e36f8f584af9f69cbec933fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/3beceec9e36f8f584af9f69cbec933fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/7c134c394a86e6810ff38d64bf94bb87.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/7c134c394a86e6810ff38d64bf94bb87.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/ae4aa37530f7abb93de30883a08722ff.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/ae4aa37530f7abb93de30883a08722ff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/b51b786a82a1135598b97e44650b4fd3.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/b51b786a82a1135598b97e44650b4fd3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/d03edb6c9f144c97e83e7e9d870024c9.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/d03edb6c9f144c97e83e7e9d870024c9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/eb0fd08eaf84caf74a58df138c847ddd.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/eb0fd08eaf84caf74a58df138c847ddd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/faae4ca62d0ba708676f71eddbba9a3e.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/node_modules/.cache/vue-loader/faae4ca62d0ba708676f71eddbba9a3e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/src/components/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/src/components/Banner.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-vue/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-vue/src/components/Header.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -75,10 +92,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-vue/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="78">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding>
-                <element signature="e#615#656#0" expanded="true" />
+                <element signature="e#645#686#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,11 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-vue/src/components/Banner.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="102" column="15" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
-              <folding>
-                <element signature="e#231#237#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="584">
+              <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -133,8 +147,8 @@
         <option value="$PROJECT_DIR$/my-vue/src/components/Header.vue" />
         <option value="$PROJECT_DIR$/my-vue/public/index.html" />
         <option value="$PROJECT_DIR$/my-vue/src/common/font.css" />
-        <option value="$PROJECT_DIR$/my-vue/src/App.vue" />
         <option value="$PROJECT_DIR$/my-vue/src/components/Banner.vue" />
+        <option value="$PROJECT_DIR$/my-vue/src/App.vue" />
       </list>
     </option>
   </component>
@@ -184,13 +198,6 @@
               <item name="my-vue" type="462c0819:PsiDirectoryNode" />
               <item name="my-vue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-vue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-vue" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,15 +258,15 @@
       <workItem from="1565759963751" duration="180000" />
       <workItem from="1565870762300" duration="6290000" />
       <workItem from="1565957757054" duration="3119000" />
-      <workItem from="1566110198887" duration="15862000" />
+      <workItem from="1566110198887" duration="18595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32770000" />
+    <option name="totallyTimeSpent" value="35503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="935" extended-state="7" />
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -416,16 +423,6 @@
     <entry file="file://$PROJECT_DIR$/my-vue/babel.config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-vue/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#615#656#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my-vue/src/common/font.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -433,13 +430,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-vue/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#645#686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-vue/src/components/Banner.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="102" column="15" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
-          <folding>
-            <element signature="e#231#237#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="584">
+          <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
         </state>
       </provider>
     </entry>

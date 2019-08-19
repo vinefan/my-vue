@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="headerWrapper">
-
+      <Header></Header>
     </div>
     <Banner></Banner>
     <div id="nav">
@@ -23,10 +23,12 @@
 <script>
   import Footer from "./components/Footer";
   import Banner from "./components/Banner"
+  import Header from "./components/Header";
   export default {
 
     name: 'app',
     components: {
+      Header,
       Footer,
       Banner
     }
@@ -41,9 +43,11 @@
     text-align: center;
     color: #888888;
   }
+
   /* 没有效果，Chrome显示还是20px*/
   .el-menu{
     font-size: 50px;
+
   }
 
 
@@ -56,9 +60,9 @@
 
   .el-menu-item {
     width: 15%;
-    font-size: 20px !important;
+    font-size: 22px !important;
     font-family: 华文行楷;
-    font-weight: 400;
+
   }
 
   /* header固定到顶部 */
@@ -67,6 +71,10 @@
     width: 100%;
     left: 0;
     top: 0;
+    /* 顶部header透明 */
+    filter: alpha(opacity=80); /* IE */ 
+    -moz-opacity: 0.8; /* Firefox */
+    opacity: 0.8; /* others */
   }
 
   #detail {

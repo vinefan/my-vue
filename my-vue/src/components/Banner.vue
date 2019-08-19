@@ -7,13 +7,13 @@
 
           <div class="product-title">
             <p class="title">
-              <i class="el-icon-s-order">&nbsp;善行保</i>
+              <i class="el-icon-s-order"> 善行保</i>
             </p>
             <div class="cut-off-line" />
           </div>
 
           <div class="product-description">
-            <p class="description-1">公益项目履约保证保险(共保体)</p>
+            <p class="description-1">公益项目履约保证保险  (共保体)</p>
             <p class="description-2">一款基于区块链技术的慈善保险</p>
           </div>
 
@@ -38,15 +38,19 @@ img{
   height: 400px;
 }
 .title {
-  padding-top: 2%;
+  padding-top: 1%;
 }
 
 .description-1 {
-  font-size: 30px;
+  font-size: 45px;
+  margin-top: 30px;
+  margin-bottom: 0;
 }
 
 .description-2{
-  font-size: 30px;
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 35px;
 }
 
 h1 {
@@ -82,6 +86,7 @@ a {
   width: 90%;
   height: auto;
   margin: auto;
+  margin-top: 150px;
   /* text-align: center; */
 
 }
@@ -99,7 +104,7 @@ a {
 .product-title {
   font-weight: 800;
   color: #ffffff;
-  width: 50%;
+  width: 60%;
   font-size: 35px;
   margin: auto;
 
