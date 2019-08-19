@@ -57,6 +57,8 @@
   .el-menu-item {
     width: 15%;
     font-size: 20px !important;
+    font-family: 华文行楷;
+    font-weight: 400;
   }
 
   /* header固定到顶部 */

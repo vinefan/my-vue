@@ -106,8 +106,8 @@ a {
 }
 
 .product-description {
-  font-family: 华文行楷;
-  font-weight: 600;
+  font-family: 华文行楷,serif;
+  font-weight: 400;
   color: #ffffff;
 }
 
