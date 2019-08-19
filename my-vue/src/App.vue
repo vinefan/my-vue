@@ -1,29 +1,72 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="headerWrapper">
+
     </div>
-    <router-view/>
+    <Banner></Banner>
+    <div id="nav">
+      <el-menu mode="horizontal"
+               router="true"
+               class="nav"
+               active-text-color="#3a83cc"
+               default-active="/">
+        <el-menu-item index="/" id="detail">产品介绍</el-menu-item>
+        <el-menu-item index="/proposal">保险条例</el-menu-item>
+        <el-menu-item index="/claim">理赔流程</el-menu-item>
+        <el-menu-item index="/cases">被保案例</el-menu-item>
+      </el-menu>
+    </div>
+    <router-view></router-view>
+    <Footer></Footer>
   </div>
 </template>
+<script>
+  import Footer from "./components/Footer";
+  import Banner from "./components/Banner"
+  export default {
 
-<style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
+    name: 'app',
+    components: {
+      Footer,
+      Banner
     }
   }
-}
+</script>
+<style>
+  #app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #888888;
+  }
+  /* 没有效果，Chrome显示还是20px*/
+  .el-menu{
+    font-size: 50px;
+  }
+
+
+  #nav {
+    width: 70%;
+    margin: auto;
+    margin-top: 200px;
+  }
+
+
+  .el-menu-item {
+    width: 15%;
+    font-size: 20px !important;
+  }
+
+  /* header固定到顶部 */
+  .headerWrapper{
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+
+  #detail {
+    margin-left: 20%;
+  }
 </style>
